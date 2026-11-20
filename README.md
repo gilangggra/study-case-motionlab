@@ -21,9 +21,9 @@ Aplikasi mobile sederhana 1 halaman berbasis Flutter untuk mencatat daftar tugas
 ---
 
 ## Tangkapan Layar (Screenshot Demo)
-> *Letakkan screenshot demo aplikasi di folder `screenshots/` atau lampirkan di sini.*
-
-*(Tambahkan gambar screenshot aplikasi yang sedang berjalan di sini)*
+<p align="center">
+  <img src="screenshots/demo.png" alt="Demo Aplikasi Mini Task Tracker" width="320"/>
+</p>
 
 ---
 
